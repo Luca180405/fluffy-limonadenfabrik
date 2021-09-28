@@ -41,7 +41,7 @@ nav ul li a{
     top: 80px;
     left: -100%;
     background: 
-    --tw-bg-opacity: 1; background-color: rgba(245, 158, 11, var(--tw-bg-opacity));;
+    rgba(245, 158, 11, var(--tw-bg-opacity));;
     height: 100vh;
     width: 100%;
     text-align: center;
