@@ -40,7 +40,8 @@ nav ul li a{
     position: fixed;
     top: 80px;
     left: -100%;
-    background: #111;
+    background: 
+    --tw-bg-opacity: 1; background-color: rgba(245, 158, 11, var(--tw-bg-opacity));;
     height: 100vh;
     width: 100%;
     text-align: center;
