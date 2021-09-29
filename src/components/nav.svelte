@@ -1,6 +1,6 @@
 <style>
   @font-face {
-    src: url(src/assets/fonts/VeggyPersonalUseSemiExpandedMedium-1GMov.ttf);
+    src: url(./fonts/VeggyPersonalUseSemiExpandedMedium-1GMov.ttf);
     font-family: Veggy;
   }
 
@@ -81,7 +81,7 @@ nav ul li a{
 
 <nav class="flex flex-wrap items-center justify-between w-full bg-yellow-500">
     <a class="flex flex-wrap"href="#">
-      <img src="./src/assets/fonts/img/orangejuice.png" alt="Fluffy Logo" width= "70px" height="70px">
+      <img src="./img/orangejuice.png" alt="Fluffy Logo" width= "70px" height="70px">
       <h1 class="text-5xl fluffy">Fluffy</h1>
     </a>
     <input class="hidden" type="checkbox" id="click">
