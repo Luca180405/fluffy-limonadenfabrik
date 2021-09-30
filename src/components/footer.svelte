@@ -19,7 +19,7 @@
             <div class="flex w-full pb-6 overflow-hidden sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4">
                 <!-- Column 1 Content -->
                 <img class="w-36 h-36" src="/img/orangejuice.png" alt="Fluffy Logo">
-                <h1 class="pt-10 text-6xl fluffy">Fluffy</h1>
+                <h1 style="z-index: 1;" class="pt-10 text-6xl fluffy">Fluffy</h1>
             </div>
             <div class="w-full pb-6 overflow-hidden sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4">
                 <!-- Column 2 Content -->
@@ -62,6 +62,9 @@
                 </ul>
             </div>
 
+        </div>
+        <div class="pt-4 text-gray-900 md:flex md:items-center md:justify-center">
+            <p>Fluffy GmbH ist auf dem Weg, seine Produkte deutschlandweit zu vertreiben. Hierzu sind wir gerade dabei ein bundesweites Vertriebsnetz aufzubauen. </p>
         </div>
     </div>
 

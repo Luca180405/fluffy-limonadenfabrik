@@ -35,8 +35,8 @@ nav ul li a{
     position: fixed;
     top: 80px;
     left: -100%;
-    background: 
-    rgba(245, 158, 11, var(--tw-bg-opacity));
+    background: linear-gradient(to right, var(--tw-gradient-stops));;
+    z-index: 2;
     height: 100vh;
     width: 100%;
     text-align: center;
@@ -86,7 +86,7 @@ nav ul li a{
       <i class="hidden text-2xl text-white cursor-pointer fas fa-bars"></i>
     </label>
     <ul class="flex flex-wrap text-2xl list-none">
-      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black active" href="/das-unternehmen">Das Unternehmen</a></li>
+      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black active" href="/Unternehmen">Das Unternehmen</a></li>
       <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Shop">Shop</a></li>
       <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Rezepte">Rezepte</a></li>
       <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Handelspartner">Handelspartner</a></li>
