@@ -4,3 +4,10 @@
     margin-right: auto;
     width: 50%;
 }
+@font-face {
+    font-family: Veggy;
+    font-display: swap;
+    src: url('/fonts/VeggyPersonalUseSemiExpandedMedium-1GMov.ttf');
+}
+
+

@@ -1,9 +1,4 @@
 <style>
-    @font-face {
-        font-family: Veggy;
-        src: url('/fonts/VeggyPersonalUseSemiExpandedMedium-1GMov.ttf');
-    }
-
   @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -68,30 +63,32 @@ nav ul li a{
   nav ul li a.active,
   nav ul li a:hover{
     background: none;
-    color: cyan;
+    color: rgba(229, 231, 235, var(--tw-text-opacity));;
   }
 }
 
 .fluffy {
-  padding-top: 6px;
-  font-family: Veggy;
-}
-
+    position: relative;
+    top: -6px;
+    bottom: auto;
+    font-family: Veggy;
+  }
+  
 </style>
 
-<nav class="flex flex-wrap items-center justify-between w-full bg-yellow-500">
-    <a class="flex flex-wrap"href="#">
-      <img src="./img/orangejuice.png" alt="Fluffy Logo" width= "70px" height="70px">
-      <h1 class="text-5xl fluffy">Fluffy</h1>
+<nav class="flex flex-wrap items-center justify-between w-full bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500">
+    <a class="flex flex-wrap"href="/">
+      <img src="/img/orangejuice.png" alt="Fluffy Logo" width= "65px" height="65px">
+      <h1 class="text-6xl fluffy">Fluffy</h1>
     </a>
     <input class="hidden" type="checkbox" id="click">
     <label for="click" class="menu-btn">
       <i class="hidden text-2xl text-white cursor-pointer fas fa-bars"></i>
     </label>
     <ul class="flex flex-wrap text-2xl list-none">
-      <li><a class="text-lg tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black active" href="#">Home</a></li>
-      <li><a class="text-lg tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="#">About</a></li>
-      <li><a class="text-lg tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="#">Shop</a></li>
-      <li><a class="text-lg tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="#">Impressum</a></li>
+      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black active" href="/das-unternehmen">Das Unternehmen</a></li>
+      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Shop">Shop</a></li>
+      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Rezepte">Rezepte</a></li>
+      <li><a class="text-lg font-medium tracking-wider text-gray-200 no-underline rounded-md active:text-black active:bg-white hover:bg-white hover:text-black" href="/Handelspartner">Handelspartner</a></li>
     </ul>
   </nav>
