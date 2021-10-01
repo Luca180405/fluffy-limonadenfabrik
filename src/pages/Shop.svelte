@@ -9,7 +9,7 @@
 
 <div class="bg-white">
     <div class="max-w-2xl px-4 mx-auto py-14 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">Fluffy einkaufen</h2>
+      <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">Bei Fluffy einkaufen</h2>
   
       <div class="grid grid-cols-1 mt-6 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
         <div class="relative group">
@@ -19,7 +19,7 @@
           <div class="flex justify-between mt-4">
             <div>
               <h3 class="text-sm text-gray-700">
-                <a href="/Produkte/fluffy-getränkedosen">
+                <a href="/produkte/fluffy-getraenkedosen">
                   <span aria-hidden="true" class="absolute inset-0"></span>
                   Fluffy Getränkedosen
                 </a>
@@ -36,7 +36,7 @@
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/erzi-getränkedosen">
+                  <a href="/produkte/erzi-getraenkedosen">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Erzi Getränkedosen
                   </a>
@@ -47,13 +47,13 @@
           </div>
           
           <div class="relative group">
-            <div class="w-full overflow-hidden bg-gray-100 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
+            <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
               <img src="/img/limo6.png" alt="Fluffy Limo" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/tau-orange-limonade">
+                  <a href="/produkte/tau-orange-limonade">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     TAU Orange-Limonade
                   </a>
@@ -64,13 +64,13 @@
           </div>
           
           <div class="relative group">
-            <div class="w-full overflow-hidden bg-gray-100 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
+            <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
               <img src="/img/limo_kiste.png" alt="Fluffy Limo" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/fluffy-mehrwegkiste">
+                  <a href="/produkte/fluffy-mehrwegkiste">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Fluffy Mehrwegkiste
                   </a>
@@ -81,13 +81,13 @@
           </div>
           
           <div class="relative group">
-            <div class="w-full overflow-hidden bg-gray-100 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
+            <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
               <img src="/img/limo3.png" alt="Fluffy Limo" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/fluffy-familienglück">
+                  <a href="/produkte/fluffy-familienglueck">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Fluffy Familienglück
                   </a>
@@ -99,12 +99,12 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo5.png" alt="Fluffy Limo" class="sm:pl-7 md:pl-9 md:pt-1 sm:pt-0 lg:relative lg:right-6 lg:top-3">
+              <img src="/img/limo5.png" alt="Fluffy Limo" class="relative sm:pl-7 md:pl-9 md:pt-1 sm:pt-0 lg:right-6 lg:top-3">
             </div>
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/Bionade">
+                  <a href="/produkte/Bionade">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Bionade
                   </a>
@@ -121,7 +121,7 @@
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/bitter-lemon">
+                  <a href="/produkte/bitter-lemon">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Fluffy Bitter Lemon
                   </a>
@@ -132,13 +132,13 @@
           </div>
           
           <div class="relative group">
-            <div class="w-full overflow-hidden bg-gray-100 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo2.gif" alt="Fluffy Limo" class="h-full pt-2 pb-2 pl-16 sm:pr-">
+            <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
+              <img src="/img/limo2.gif" alt="Fluffy Limo" class="h-full pt-2 pb-2 pl-16">
             </div>
             <div class="flex justify-between mt-4">
               <div>
                 <h3 class="text-sm text-gray-700">
-                  <a href="/Produkte/fluffy-sekt">
+                  <a href="/produkte/fluffy-sekt">
                     <span aria-hidden="true" class="absolute inset-0"></span>
                     Fluffy Sekt
                   </a>
