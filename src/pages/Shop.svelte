@@ -7,7 +7,7 @@
 </script>
 
 
-<div class="bg-white">
+<div class="bg-gray-50">
     <div class="max-w-2xl px-4 mx-auto py-14 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
       <h2 class="text-2xl font-extrabold tracking-tight text-gray-900">Bei Fluffy einkaufen</h2>
   
@@ -31,7 +31,7 @@
         
         <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo_erzi.png" alt="Fluffy Limo" class="lg:pt-14 md:pt-9 sm:pt-5">
+              <img src="/img/limo_erzi.png" alt="Erzi Getränkedosen" class="lg:pt-14 md:pt-9 sm:pt-5">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -48,7 +48,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo6.png" alt="Fluffy Limo" class="pt-12">
+              <img src="/img/limo6.png" alt="TAU Orange-Limonade" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -65,7 +65,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo_kiste.png" alt="Fluffy Limo" class="pt-12">
+              <img src="/img/limo_kiste.png" alt="Fluffy Mehrwegkiste" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -82,7 +82,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo3.png" alt="Fluffy Limo" class="pt-12">
+              <img src="/img/limo3.png" alt="Fluffy Familienglück" class="pt-12">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -99,7 +99,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo5.png" alt="Fluffy Limo" class="relative sm:pl-7 md:pl-9 md:pt-1 sm:pt-0 lg:right-6 lg:top-3">
+              <img src="/img/limo5.png" alt="Bionade" class="relative sm:pl-7 md:pl-9 md:pt-1 sm:pt-0 lg:right-6 lg:top-3">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -116,7 +116,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/bitter_lemon.png" alt="Fluffy Limo" class="h-full pb-2 pl-16 plact-2">
+              <img src="/img/bitter_lemon.png" alt="Fluffy Bitter Lemon" class="h-full pb-2 pl-16 plact-2">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -133,7 +133,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo2.gif" alt="Fluffy Limo" class="h-full pt-2 pb-2 pl-16">
+              <img src="/img/limo2.gif" alt="Fluffy Sekt" class="h-full pt-2 pb-2 pl-16">
             </div>
             <div class="flex justify-between mt-4">
               <div>

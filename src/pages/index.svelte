@@ -1,7 +1,7 @@
 <script>
     import { metatags } from '@roxi/routify'
     
-    metatags.title = 'Fluffy - die spritzige Limonade'
+    metatags.title = 'Fluffy - die spritzige Limonade🍹'
     metatags.description = 'Description coming soon...'
     
     const data = {};
@@ -21,6 +21,10 @@
     }
     
   }
+  
+    function myFunction() {
+    alert("The form was submitted");
+    }
 </script>
 
 
@@ -39,7 +43,7 @@
 </div>
 <div class="text-center">
     <p class="pb-2 font-semibold">Die Preisfrage lautet:</p>
-    <p>Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?</p>
+    <p class="cursor-wait hover:text-red-800">Wieviele Mitarbeiter hat die Fluffy GmbH zur Zeit?</p>
 </div>
 
 {#if isVisible === true}
@@ -51,20 +55,22 @@
     <input type="radio" id="5" name="num" value="5">
     <label for="5">5</label> 
     <br>
-    <input class="w-16 mt-3 mb-2 font-semibold bg-yellow-400 rounded-lg cursor-pointer hover:bg-yellow-300 h-7" type="submit" value="Submit">
+    <input class="w-20 mt-3 mb-2 font-semibold bg-yellow-400 rounded-lg cursor-pointer hover:bg-yellow-300 h-7" type="submit" value="Auflösen">
 </form>
 {/if}
 
-{#if data.num === "1"}
-<h1 class="text-center">❌Falsch</h1>
-{/if}
-
-{#if data.num === "5"}
-<h1 class="text-center">❌Falsch</h1>
-{/if}
 
 {#if data.num === "3"}
-<h1 class="pt-5 text-center">🎉RICHTIG, Fluffy hat 3 Mitarbeiter🎉</h1>
+<div class="text-center">
+    <h1 class="pt-5">🎉<span class="text-semibold">Richtig</span>, Fluffy hat 3 Mitarbeiter🎉</h1>
+    <form action="/">
+        <input class="w-16 mt-3 mb-2 font-semibold bg-yellow-400 rounded-lg cursor-pointer hover:bg-yellow-300 h-7" type="submit" value="Zurück">
+    </form>
+</div>
+{:else if data.num < 3}
+<h1 class="text-center">❌Falsch❌</h1>
+{:else if data.num > 3}
+<h1 class="text-center">❌Falsch❌</h1>
 {/if}
 
 <p class="pt-5 text-center pb-9"><b>Viel Erfolg!</b></p>
