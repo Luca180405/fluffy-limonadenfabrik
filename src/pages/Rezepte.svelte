@@ -19,7 +19,7 @@
 <div class="flex p-6 pb-12">
     
     <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md right-12 hover:shadow-2xl hover:scale-105">
-            <img class="w-full h-4/6" src="public/img/shikanjvi-limonade-mit-zitrone-und-ingwer-mit-kümmelgeträn.jpg" alt="Rezept">
+            <img class="w-full h-4/6" src="/img/shikanjvi-limonade-mit-zitrone-und-ingwer-mit-kümmelgeträn.jpg" alt="Rezept">
             <div class="px-6 py-4">
                 <a href="#">
                     <div class="mb-2 text-xl font-bold">Der magische Trunk</div>
@@ -31,7 +31,7 @@
     </a>
     
       <a href="#" class="max-w-sm overflow-hidden rounded shadow-md hover:shadow-2xl hover:scale-105">
-            <img class="w-full" src="public/img/zimt-apfel.jpg" alt="Rezept">
+            <img class="w-full" src="/img/zimt-apfel.jpg" alt="Rezept">
             <div class="px-6 py-4">
               <a href="#">
                   <div class="mb-2 text-xl font-bold">Der schnelle Läufer</div>
@@ -43,7 +43,7 @@
       </a>
     
       <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md left-12 hover:shadow-2xl hover:scale-105">
-            <img class="w-full" src="public/img/Orange-lemonade.jpg" alt="Rezept">
+            <img class="w-full" src="/img/Orange-lemonade.jpg" alt="Rezept">
             <div class="px-6 py-4">
                 <a href="#">
                     <div class="mb-2 text-xl font-bold">Der Erfrischer</div>
