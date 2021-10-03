@@ -5,46 +5,50 @@
     metatags.description = 'Description coming soon...'
 </script>
 
+    <h1 class="text-4xl font-bold text-center">
+        Rezepte
+    </h1>
+    
+    <p class="block text-center">
+        Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder Ernährung: Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche Art hergestellt wird. Fluffy-Limonade ist von Haus aus calciumreich aber natriumarm. Mit den enthaltenen Mineralien stellt es ein wichtigen Baustein zur gesunden Ernährung dar, und dieses Tag für Tag Jüngste Forschungsergebnisse haben gezeigt, dass Fluffylimonade überaus geeignet ist die tägliche Versorgung mit Mineralstoffen und Spurenelementen sicherzustellen. 
+    </p>
 
-<div class="flex max-w-md overflow-hidden bg-white rounded-lg shadow-lg">
-    <div class="w-1/3 bg-cover bg-landscape">
-    </div>
-    <div class="w-2/3 p-4">
-        <h1 class="text-2xl font-bold text-gray-900">
-            Tomorow
-        </h1>
-        <p class="mt-2 text-sm text-gray-600">
-            You can&#x27;t buy your future, but you can do it. Money is nothing, you&#x27;r everything.
-        </p>
-        <div class="flex mt-2 item-center">
-            <svg class="w-5 h-5 text-gray-700 fill-current" viewBox="0 0 24 24">
-                <path d="M12 17.27L18.18 21L16.54 13.97L22 9.24L14.81 8.63L12 2L9.19 8.63L2 9.24L7.46 13.97L5.82 21L12 17.27Z">
-                </path>
-            </svg>
-            <svg class="w-5 h-5 text-gray-700 fill-current" viewBox="0 0 24 24">
-                <path d="M12 17.27L18.18 21L16.54 13.97L22 9.24L14.81 8.63L12 2L9.19 8.63L2 9.24L7.46 13.97L5.82 21L12 17.27Z">
-                </path>
-            </svg>
-            <svg class="w-5 h-5 text-gray-700 fill-current" viewBox="0 0 24 24">
-                <path d="M12 17.27L18.18 21L16.54 13.97L22 9.24L14.81 8.63L12 2L9.19 8.63L2 9.24L7.46 13.97L5.82 21L12 17.27Z">
-                </path>
-            </svg>
-            <svg class="w-5 h-5 text-gray-500 fill-current" viewBox="0 0 24 24">
-                <path d="M12 17.27L18.18 21L16.54 13.97L22 9.24L14.81 8.63L12 2L9.19 8.63L2 9.24L7.46 13.97L5.82 21L12 17.27Z">
-                </path>
-            </svg>
-            <svg class="w-5 h-5 text-gray-500 fill-current" viewBox="0 0 24 24">
-                <path d="M12 17.27L18.18 21L16.54 13.97L22 9.24L14.81 8.63L12 2L9.19 8.63L2 9.24L7.46 13.97L5.82 21L12 17.27Z">
-                </path>
-            </svg>
+
+<div class="flex p-6">
+    <div class="relative max-w-sm overflow-hidden rounded shadow-lg right-12">
+        <img class="w-full" src="public/img/limo1.png" alt="Rezept">
+        <div class="px-6 py-4">
+            <a href="#">
+                <div class="mb-2 text-xl font-bold">Der magische Trunk</div>
+            </a>
+          <p class="block text-base text-gray-700">
+            Hierfür werden eine frische Apfelsine, ein Apfel, ein wenig Zimt, etwas Ingwer und Fluffy Orangenlimonade gebraucht. Apfelsine und Apfel schälen und klein schneiden und mit der Fluffy Orangenlimonade verrühren. Zum Abschluss mit Zimt und Ingwer verfeinern. 
+          </p>
         </div>
-        <div class="flex justify-between mt-3 item-center">
-            <h1 class="text-xl font-bold text-gray-700">
-                $220
-            </h1>
-            <button class="px-3 py-2 text-xs font-bold text-white uppercase bg-gray-800 rounded">
-                Add to Card
-            </button>
+      </div>
+    
+      <div class="max-w-sm overflow-hidden rounded shadow-lg">
+        <img class="w-full" src="public/img/limo1.png" alt="Rezept">
+        <div class="px-6 py-4">
+          <a href="#">
+              <div class="mb-2 text-xl font-bold">Der schnelle Läufer</div>
+          </a>
+          <p class="block text-base text-gray-700">
+            Hierfür benötigen Sie eine Limette, etwas Kümmel und Fluffy Bitterlemon. Limette waschen und kleinschneiden, etwas Kümmel hinzugeben und zum Abschluss mit Fluffy Bitterlemon auffüllen. Mmmh, das schmeckt und gibt starke Beine. 
+          </p>
         </div>
-    </div>
+      </div>
+    
+      <div class="relative max-w-sm overflow-hidden rounded shadow-lg left-12">
+        <img class="w-full" src="public/img/limo1.png" alt="Rezept">
+        <div class="px-6 py-4">
+            <a href="#">
+                <div class="mb-2 text-xl font-bold">Der Erfrischer</div>
+            </a>
+          <p class="block text-base text-gray-700">
+            Hierfür benötigen Sie eine Zitrone, viel Eis und eine Dose Fluffygetränkedose (Zitrone oder Orange). Zitrone durchschneiden und ausdrücken, Eis bis zum Glasrand und zum Abschluss mit Fluffy aufgießen. Das erfrischt für den ganzen Tag! 
+          </p>
+        </div>
+      </div>
 </div>
+

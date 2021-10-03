@@ -1,7 +1,7 @@
 <script>
     import { metatags } from '@roxi/routify'
     
-    metatags.title = 'Fluffy - Das Unternehmen'
+    metatags.title = 'Fluffy - Das Unternehmen🏢'
     metatags.description = 'Description coming soon...'
 </script>
 

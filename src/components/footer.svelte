@@ -10,7 +10,7 @@
 
 
 <footer class="bg-gradient-to-r from-yellow-300 via-orange-400 to-red-500">
-    
+
 
     <div class="container pb-4 mx-auto">
 
@@ -59,6 +59,10 @@
             </svg>
         </a>
         </div>
+    </div>
+    
+        <div class="block pt-5 pb-5 font-mono text-center text-gray-800 hover:animate-bounce">
+        Hergestellt wird Fluffy aus den besten Zutaten aus der Umgebung. Wir verwenden fast ausschließlich ökologische Anbauprodukte. <br> Somit ist unsere Limonade nicht nur ungemein lecker, sondern auch noch gesund.
     </div>
 
 </footer>

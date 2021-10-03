@@ -1,3 +1,8 @@
+<script>
+  import Icon from 'svelte-awesome';
+  import { faBars } from "@fortawesome/free-solid-svg-icons/faBars";
+</script>
+
 <nav
   class="flex flex-wrap items-center justify-between w-full bg-gradient-to-r from-yellow-400 via-orange-500 to-red-500"
 >
@@ -10,9 +15,9 @@
     />
     <h1 class="text-6xl fluffy">Fluffy</h1>
   </a>
-  <input class="hidden" type="checkbox" id="click" />
-  <label for="click" class="menu-btn">
-    <i class="hidden text-2xl text-white cursor-pointer fas fa-bars" />
+  <input type="checkbox" id="click" class="hidden"/>
+  <label for="click" class="menu-btn lg:hidden md:hidden">
+    <Icon class="text-white" data="{faBars}" />
   </label>
   <ul class="flex flex-wrap text-2xl list-none">
     <li>
@@ -39,31 +44,10 @@
         href="/Handelspartner">Handelspartner</a
       >
     </li>
-    <a href="/Warenkorb" class="relative filter brightness-0 invert -bottom-2.5 left-2 animate-pulse hover:filter-none">
-      <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="20"
-      height="20"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="#000000"
-      stroke-width="2"
-      stroke-linecap="round"
-      stroke-linejoin="round"
-      ><circle cx="10" cy="20.5" r="1" /><circle cx="18" cy="20.5" r="1" /><path
-        d="M2.5 2.5h3l2.7 12.4a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.6l1.6-8.4H7.1"
-      />
-        </svg>
-    </a>
   </ul>
 </nav>
 
-<style>
-  
-  .filter-green{
-        filter: brightness(0) invert(1);
-    }
-    
+<style>    
   @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
   * {
     margin: 0;

@@ -5,21 +5,10 @@
   metatags.description = 'Description coming soon...'
 </script>
 
-<div class="bg-gray-50">
+<div class="bg-gray-100">
     <div class="pt-6">
       <!-- Image gallery -->
-      <div class="max-w-2xl mx-auto mt-6 sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8">
-        <div class="hidden overflow-hidden rounded-lg aspect-w-3 aspect-h-4 lg:block">
-          <img src="https://tailwindui.com/img/ecommerce-images/product-page-02-secondary-product-shot.jpg" alt="Two each of gray, white, and black shirts laying flat." class="object-cover object-center w-full h-full">
-        </div>
-        <div class="hidden lg:grid lg:grid-cols-1 lg:gap-y-8">
-          <div class="overflow-hidden rounded-lg aspect-w-3 aspect-h-2">
-            <img src="https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-01.jpg" alt="Model wearing plain black basic tee." class="object-cover object-center w-full h-full">
-          </div>
-          <div class="overflow-hidden rounded-lg aspect-w-3 aspect-h-2">
-            <img src="https://tailwindui.com/img/ecommerce-images/product-page-02-tertiary-product-shot-02.jpg" alt="Model wearing plain gray basic tee." class="object-cover object-center w-full h-full">
-          </div>
-        </div>
+      <div class="relative max-w-2xl mx-auto mt-6 sm:px-6 lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-3 lg:gap-x-8 lg:left-64">
         <div class="aspect-w-4 aspect-h-5 sm:rounded-lg sm:overflow-hidden lg:aspect-w-3 lg:aspect-h-4">
           <img src="/img/limo_erzi.png" alt="Erzi Getränkedosen" class="object-cover object-center w-full h-full">
         </div>

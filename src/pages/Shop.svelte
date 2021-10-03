@@ -116,7 +116,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/bitter_lemon.png" alt="Fluffy Bitter Lemon" class="h-full pb-2 pl-16 plact-2">
+              <img src="/img/bitter_lemon.png" alt="Fluffy Bitter Lemon" class="pb-2 pl-16 sm:h-96 plact-2 lg:h-full">
             </div>
             <div class="flex justify-between mt-4">
               <div>
@@ -133,7 +133,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/limo2.gif" alt="Fluffy Sekt" class="h-full pt-2 pb-2 pl-16">
+              <img src="/img/limo2.gif" alt="Fluffy Sekt" class="pt-2 pb-2 pl-16 sm:h-96 lg:h-full">
             </div>
             <div class="flex justify-between mt-4">
               <div>
