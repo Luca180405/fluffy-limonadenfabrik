@@ -8,6 +8,7 @@
 >
   <a class="flex flex-wrap" href="/">
     <img
+      class="hover:animate-spin"
       src="/img/orangejuice.png"
       alt="Fluffy Logo"
       width="65px"
