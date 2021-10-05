@@ -33,7 +33,7 @@
             <h3 class="sr-only">Description</h3>
   
             <div class="space-y-6">
-              <p class="text-base text-gray-900">The Basic Tee 6-Pack allows you to fully express your vibrant personality with three grayscale options. Feeling adventurous? Put on a heather gray tee. Want to be a trendsetter? Try our exclusive colorway: &quot;Black&quot;. Need to add an extra pop of color to your outfit? Our white tee has you covered.</p>
+              <p class="text-base text-gray-900">Beliebt vor allem bei der Jugend enthält jede Dose 100% Fluffy-Flavoury. Garantiert! Erhältlich in den Geschmacksrichtungen "Zitrone" und "Orange". </p>
             </div>
           </div>
         </div>

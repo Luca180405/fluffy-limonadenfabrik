@@ -116,7 +116,7 @@
           
           <div class="relative group">
             <div class="w-full overflow-hidden bg-gray-200 rounded-md min-h-80 aspect-w-1 aspect-h-1 group-hover:opacity-75 lg:h-80 lg:aspect-none">
-              <img src="/img/bitter_lemon.png" alt="Fluffy Bitter Lemon" class="pb-2 pl-16 sm:h-96 plact-2 lg:h-full">
+              <img src="/img/bitter_lemon.png.bak" alt="Fluffy Bitter Lemon" class="pb-2 pl-16 sm:h-96 plact-2 lg:h-full">
             </div>
             <div class="flex justify-between mt-4">
               <div>

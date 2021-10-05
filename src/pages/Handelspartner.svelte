@@ -5,4 +5,4 @@
     metatags.description = 'Description coming soon...'
 </script>
 
-<p>In Arbeit... :)</p>
+<h1 class="w-full p-64 text-2xl font-bold text-center text-blue-500">Kommt bald... :)</h1>

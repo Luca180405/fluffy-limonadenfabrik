@@ -10,7 +10,7 @@
             Rezepte
         </h1>
         
-        <p class="block font-semibold text-center pb-7 pt-9">
+        <p class="block text-center pb-7 pt-9">
             Fluffy-Limonade entspricht dem Trend nach natürlicher und gesunder Ernährung: Ein alkoholfreies Erfrischungsgetränk, das durch auf natürliche Art hergestellt wird. Fluffy-Limonade ist von Haus aus calciumreich aber natriumarm. Mit den enthaltenen Mineralien stellt es ein wichtigen Baustein zur gesunden Ernährung dar, und dieses Tag für Tag Jüngste Forschungsergebnisse haben gezeigt, dass Fluffylimonade überaus geeignet ist die tägliche Versorgung mit Mineralstoffen und Spurenelementen sicherzustellen.
         </p>
     </div>
@@ -18,8 +18,8 @@
 
 <div class="flex p-6 pb-12">
     
-    <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md right-12 hover:shadow-2xl hover:scale-105">
-            <img class="w-full h-4/6" src="/img/shikanjvi-limonade-mit-zitrone-und-ingwer-mit-kümmelgeträn.jpg" alt="Rezept">
+    <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md right-10 hover:shadow-2xl hover:scale-105">
+            <img class="w-auto h-3/6" src="/img/magischer_trunk.jpg" alt="Rezept">
             <div class="px-6 py-4">
                 <a href="#">
                     <div class="mb-2 text-xl font-bold">Der magische Trunk</div>
@@ -31,7 +31,7 @@
     </a>
     
       <a href="#" class="max-w-sm overflow-hidden rounded shadow-md hover:shadow-2xl hover:scale-105">
-            <img class="w-full" src="/img/zimt-apfel.jpg" alt="Rezept">
+            <img class="w-full h-4/6" src="/img/schneller_laeufer.jpg" alt="Rezept">
             <div class="px-6 py-4">
               <a href="#">
                   <div class="mb-2 text-xl font-bold">Der schnelle Läufer</div>
@@ -42,8 +42,8 @@
             </div>
       </a>
     
-      <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md left-12 hover:shadow-2xl hover:scale-105">
-            <img class="w-full" src="/img/Orange-lemonade.jpg" alt="Rezept">
+      <a href="#" class="relative max-w-sm overflow-hidden rounded shadow-md left-10 hover:shadow-2xl hover:scale-105">
+            <img class="w-full" src="/img/lemonade.jpg" alt="Rezept">
             <div class="px-6 py-4">
                 <a href="#">
                     <div class="mb-2 text-xl font-bold">Der Erfrischer</div>
