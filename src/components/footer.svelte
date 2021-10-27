@@ -62,7 +62,7 @@
     </div>
     
         <div class="block pb-5 font-mono text-center text-gray-800 pt-9 hover:animate-bounce">
-        Hergestellt wird Fluffy aus den besten Zutaten aus der Umgebung. Wir verwenden fast ausschließlich ökologische Anbauprodukte. <br> Somit ist unsere Limonade nicht nur ungemein lecker, sondern auch noch gesund.
+            Fluffy GmbH ist auf dem Weg, seine Produkte deutschlandweit zu vertreiben. Hierzu sind wir gerade dabei ein bundesweites Vertriebsnetz aufzubauen. 
     </div>
 
 </footer>
