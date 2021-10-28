@@ -5,14 +5,14 @@
     metatags.description = 'Description coming soon...'
     
     let products = [
-      {name: "Fluffy Getränkedosen", image: "/img/limo1.png", price: "0,99€", label: "Fluffy Getränkedosen"},
-      {name: "Erzi Getränkedosen", image: "/img/limo_erzi.png", price: "1,49€", label: "Erzi Getränkedosen"},
-      {name: "TAU Orange-Limonade", image: "/img/limo6.png", price: "8,99€", label: "TAU Orange-Limonade"},
-      {name: "Fluffy Mehrwegkiste", image: "/img/limo_kiste.png.bak", price: "7,99€", label: "Fluffy Mehrwegkiste"},
-      {name: "Fluffy Familienglück", image: "/img/limo3.png", price: "2,99€", label: "Fluffy Familienglück"},
-      {name: "Bionade", image: "/img/limo5.png", price: "1,99€", label: "Bionade"},
-      {name: "Fluffy Bitter Lemon", image: "/img/bitter_lemon.png", price: "3,99€", label: "Fluffy Bitter Lemon"},
-      {name: "Fluffy Sekt", image: "/img/limo2.gif", price: "6,99€", label: "Fluffy Sekt"},
+      {name: "Fluffy Getränkedosen", image: "/img/limo1.png", price: "0,99€", label: "Fluffy Getränkedosen", page: "/produkte/fluffy-getraenkedosen"},
+      {name: "Erzi Getränkedosen", image: "/img/limo_erzi.png", price: "1,49€", label: "Erzi Getränkedosen", page:"/produkte/erzi-getraenkedosen"},
+      {name: "TAU Orange-Limonade", image: "/img/limo6.png", price: "8,99€", label: "TAU Orange-Limonade", page:"/produkte/tau-orange-limonade"},
+      {name: "Fluffy Mehrwegkiste", image: "/img/limo_kiste.png.bak", price: "7,99€", label: "Fluffy Mehrwegkiste", page:"/produkte/fluffy-mehrwegkiste"},
+      {name: "Fluffy Familienglück", image: "/img/limo3.png", price: "2,99€", label: "Fluffy Familienglück", page:"/produkte/fluffy-familienglueck"},
+      {name: "Bionade", image: "/img/limo5.png", price: "1,99€", label: "Bionade", page:"/produkte/Bionade"},
+      {name: "Fluffy Bitter Lemon", image: "/img/bitter_lemon.png", price: "3,99€", label: "Fluffy Bitter Lemon", page:"/produkte/bitter-lemon"},
+      {name: "Fluffy Sekt", image: "/img/limo2.gif", price: "6,99€", label: "Fluffy Sekt", page:"/produkte/fluffy-sekt"},
     ]
 </script>
 
@@ -29,7 +29,7 @@
   <div class="flex justify-between mt-4">
     <div>
       <h3 class="text-sm text-gray-700">
-        <a href="/produkte/fluffy-familienglueck">
+        <a href="{product.page}">
           <span aria-hidden="true" class="absolute inset-0"></span>
           {product.name}
         </a>
