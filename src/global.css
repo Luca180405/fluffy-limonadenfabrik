@@ -9,3 +9,28 @@
     font-display: swap;
     src: url('/fonts/VeggyPersonalUseSemiExpandedMedium-1GMov.ttf');
 }
+
+
+.svg {
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+
+.svg2:hover {
+    transform: scale(1.4);
+}
+
+button, .add-cart {
+    position: absolute;
+    bottom: 80px;
+    left: 10px;
+    background-color: darkgrey;
+    transition: all 0.3s ease-in-out;
+    opacity: 0;
+    cursor: pointer;
+}
+
+button, .add-cart:hover {
+    opacity: 1;
+}

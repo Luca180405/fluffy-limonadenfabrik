@@ -3,6 +3,7 @@
   
   metatags.title = 'Fluffy - Getränkedosen🧃'
   metatags.description = 'Description coming soon...'
+
 </script>
 
 <div class="bg-gray-100">
