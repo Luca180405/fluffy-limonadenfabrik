@@ -23,18 +23,13 @@
                     <h1 class="pt-4 text-5xl fluffy">Fluffy</h1>
                 </a>
             </div>
-            <div class="relative overflow-hidden rw-full sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4 -bottom-10">
+            <div class="relative overflow-hidden rw-full sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4 -bottom-10 left-28">
 
                 <a href="/Impressum" class="font-semibold text-gray-900 hover:text-gray-800">Impressum</a>
 
             </div>
 
-            <div class="relative w-full overflow-hidden sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4 -bottom-10">
-
-                <a href="/Datenschutz" class="font-semibold text-gray-900 hover:text-gray-800">Datenschutz</a>
-            </div>
-
-            <div class="relative w-full pb-4 overflow-hidden sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4 -bottom-10">
+            <div class="relative w-full pb-4 overflow-hidden sm:my-1 sm:px-1 sm:w-1/2 md:my-px md:px-px md:w-1/2 lg:my-2 lg:px-2 lg:w-1/4 xl:my-2 xl:px-2 xl:w-1/4 -bottom-10 left-44">
 
                 <a href="/Quellen" class="font-semibold text-gray-900 hover:text-gray-800">Quellen</a>
             </div>
