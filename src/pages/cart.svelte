@@ -5,4 +5,4 @@
     metatags.description = 'Description coming soon...'
 </script>
 
-<h1>Momentan liegt noch nichts im Warenkorb</h1>
+<h1 class="text-2xl text-center p-64 font-bold">Momentan liegt noch nichts im Warenkorb</h1>

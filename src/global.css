@@ -34,3 +34,8 @@ button, .add-cart {
 button, .add-cart:hover {
     opacity: 1;
 }
+
+.unternehmen {
+    width: 512px;
+    height: auto;
+}
