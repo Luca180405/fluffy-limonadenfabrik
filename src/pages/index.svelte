@@ -59,9 +59,7 @@
 {#if data.num === "34"}
 <div class="text-center">
     <h1 class="pt-5">🎉<span class="text-semibold">Richtig</span>, Fluffy hat 34 Mitarbeiter🎉</h1>
-    <form action="/">
-        <input class="w-16 mt-3 mb-2 font-semibold bg-yellow-400 rounded-lg cursor-pointer hover:bg-yellow-300 h-7" type="submit" value="Zurück">
-    </form>
+    <button onclick="location.href='/';" class="w-16 mt-3 mb-2 font-semibold bg-yellow-400 rounded-lg cursor-pointer hover:bg-yellow-300 h-7 relative -bottom-1" type="submit" value="Zurück">Zurück</button>
 </div>
 {:else if data.num < 34}
 <h1 class="text-center">❌Falsch❌</h1>
